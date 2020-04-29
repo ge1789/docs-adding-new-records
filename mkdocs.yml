@@ -1,0 +1,5 @@
+site_name: "Adding New Records Guide"
+theme: readthedocs
+nav:
+  - Home: index.md
+  - Adding Title Records: adding-title-records.md
