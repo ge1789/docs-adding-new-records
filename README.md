@@ -2,7 +2,7 @@
 
 ## Viewing the documentation
 
-Visit <https://atcl-adding-new-records-guide.readthedocs.org>.
+Visit <https://atcl-adding-new-records-guide.readthedocs.io/>.
 
 ## Editing the documentation
 
