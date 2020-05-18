@@ -18,8 +18,6 @@ We use the word "novel" to refer to these prose fiction works even though a smal
 
 # Steps to add a new title
 
-source	source_page	author_name	title_main	title_sub	publisher_name	publication_year	transcription_format_and_price	title_summary	additional_notes
-
 New titles are added to the database using the steps listed below.
 The description of the steps is intended for people who are adding records by going through the *English Catalogue of Books* to find overlooked titles.
 
