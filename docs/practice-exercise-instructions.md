@@ -1,3 +1,7 @@
+---
+title: Practice Exercise
+...
+
 Here are instructions for the practice exercise. You should do this exercise first.
 
 Locate records which should be added to the database.
