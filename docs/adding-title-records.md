@@ -4,12 +4,14 @@ title: Adding Title Records
 
 *Note: This document is in development.*
 
+This guide describes how to decide whether or not an edition should be included in [*At the Circulating Library*](https://www.victorianresearch.org/atcl/) (ATCL). The guide assumes you already have an edition in hand which you think might belong in ATCL.
+
 # Inclusion criteria
 
 The ATCL database includes books which have all of the following characteristics:
 
 - Prose fiction including collections of stories. No poetry and no plays.
-- Intended audience is adult and young adult readers. No works addressed exclusively to children under the age of 12.
+- Intended audience is adult and young adult readers. No works addressed exclusively to children under the age of 13.
 - First editions published in the British Isles (England, Ireland, Scotland, Wales, and the Channel Islands).
 - Publication date between 1837 and 1901.
 - Minimum length of 90 printed pages including illustrations, introductions, prefaces.

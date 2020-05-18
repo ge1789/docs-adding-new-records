@@ -3,4 +3,5 @@ theme: readthedocs
 nav:
   - Home: index.md
   - Adding Title Records: adding-title-records.md
+  - Practice Exercise: practice-exercise-instructions.md
 repo_url: https://github.com/ge1789/docs-adding-new-records
