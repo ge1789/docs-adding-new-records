@@ -25,7 +25,7 @@ The description of the steps is intended for people who are adding records by go
 
 1. Identify a candidate book which may need to be added though the *English Catalogue of Books* or other source.
 2. Ensure that the candidate book appears to be a first edition. If you are using the *English Catalogue of Books* look for a notation like "new edit." or "3rd edit.". If you see this, skip the title.
-3. Ensure that the publication location is in the British isles. If you are using the *English Catalogue of Books* look at the publisher on the right-hand side of the page. If you see the name of a city outside the British Isles (e.g., "New York", "Detroit"), skip the title.
+3. Ensure that the publication location is in the British isles. If you are using the *English Catalogue of Books* look at the publisher on the right-hand side of the page. If the name of the publisher is listed (e.g., Bentley, Blackwood), you can safely assume that it is a British Isles publishers.  However, if you see the name of a city outside the British Isles (e.g., "New York", "Detroit"), skip the title.
 4. Check the [ATCL database](https://www.victorianresearch.org/atcl) to see if the candidate book is already present.
     - If the title is in the ATCL then the candidate book does not need to be entered.
     - If the title is not in the ATCL continue to the next step.
