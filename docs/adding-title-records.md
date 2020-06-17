@@ -38,7 +38,7 @@ The description of the steps is intended for people who are adding records by go
       If a title does not have a subtitle, enter *NULL* (all caps).
     - `publisher_name`: Enter the publisher's name. If you are using the *English Catalogue of Books*, the name appears on the right-hand side of the line.
     - `transcription_format_and_price`: If you are using the *English Catalogue of Books* transcribe the format and price information. The format is indicated by a term like "8vo" or "12mo" or "3v. cr. 8o". The price is given in shillings and pence (e.g., "4s 6d"). Transcribe everything. Examples: "post 8vo, 7s 6d", "12mo, 7s 6d", "3v. cr. 8o, 25s 6d".
-    - `additional_notes`: Add any notes which might be useful here. If you think the book might not count as prose fiction you could indicate your thinking here.
+    - `additional_notes`: Add any notes which might be useful here. If you think the book might not count as prose fiction you could indicate your thinking here. Translator and illustrator information can go here.
 
 # Important note about new editions (new edit., 2nd, 3rd, etc.)
 
