@@ -44,10 +44,6 @@ The description of the steps is intended for people who are adding records by go
 
 Include novels marked "new edit." (or 2nd, 3rd, etc) in your spreadsheet if the novel is not already in the ATCL. (Background: if a new edition comes out very quickly after a first edition, the English Catalogue sometimes will not mention the first edition.)
 
-# Tips and Tricks
-
-- Skip the line if the title indicates the book is non-fiction. For example, "Art of Practical Brick-cutting & Setting" is unlikely to be a novel. No further research is needed. Be careful here (but not too careful). Remember that *Jane Eyre: An Autobiography* is a work of fiction (and not an autobiography).
-
 # Chicago Style Title Capitalization
 
 Capitalize the first word of the title, the last word of the title, and all important words.
@@ -55,4 +51,7 @@ Do not capitalize "a", "an", "the", "and", "but", "for", "at", "by", "to", "etc"
 
 # Frequently Asked Questions
 
-*This section is in development.*
+## Is it a novel?
+
+- It might be! Try looking for a copy of the book at Google Books or the Internet Archive. In this case, it doesn't matter if the edition is a different one. A glance at a page or two will tell you if it is likely a novel.
+- If in doubt, add it to your list.
